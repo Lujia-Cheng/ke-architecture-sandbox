@@ -4,7 +4,7 @@
 
 This is a creative project. We want to generate brick walls with different profiles from a single picture.
 
-## The picture
+## The original image
 
 ![rainbow spiral](./origin.png)
 
